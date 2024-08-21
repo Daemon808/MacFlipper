@@ -39,15 +39,6 @@ The script does the following:
 - `-i, --interface` : The network interface you want to change the MAC address for (e.g., eth0, wlan0).
 - `-m, --mac` : The new MAC address you want to set (e.g., 00:11:22:33:44:55).
 
-## Example Output
-
-```
-[+] Changing MAC address for eth0 to 00:11:22:33:44:55
-Current MAC address for interface eth0 is: 00:11:22:33:44:55
-```
-
-If the script encounters any issues (e.g., incorrect interface or MAC address), it will prompt an error message.
-
 ## Important Notes
 
 - Use this script responsibly. Changing your MAC address can have legal and ethical implications depending on the context.
